@@ -65,7 +65,7 @@ I enjoy blending clean design with thoughtful code, creating interfaces that are
 
 ## Connect With Me
 
-<p align="center">
+<p align="left">
   <em>Always open to learning, building together, and meaningful collaborations.</em>
 </p>
 
