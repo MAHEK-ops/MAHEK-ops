@@ -10,7 +10,10 @@ I’m a Full Stack Developer with a strong interest in UI/UX and AI.
 I enjoy blending clean design with thoughtful code, creating interfaces that are intuitive, calm, and visually pleasing.
 
 ## Tech Stack
-*My toolkit for crafting calm, thoughtful, and beautifully detailed digital experiences.*
+<p align="center">
+  <em>My toolkit for crafting calm, thoughtful, and beautifully detailed digital experiences.</em>
+</p>
+
 
 **Web & Frontend**
 <div>
