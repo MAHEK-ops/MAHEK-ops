@@ -9,3 +9,49 @@
 I’m a Full Stack Developer with a strong interest in UI/UX and AI.  
 I enjoy blending clean design with thoughtful code, creating interfaces that are intuitive, calm, and visually pleasing.
 
+## Tech Stack
+
+<p align="center">
+ᴀ ᴛᴏᴏʟᴋɪᴛ ꜰᴏʀ ᴄʀᴀꜰᴛɪɴɢ ᴄᴀʟᴍ, ᴛʜᴏᴜɢʜᴛꜰᴜʟ, ᴀɴᴅ ʙᴇᴀᴜᴛɪꜰᴜʟʟʏ ᴅᴇᴛᴀɪʟᴇᴅ ᴅɪɢɪᴛᴀʟ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ.
+</p>
+
+### Web & Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-2d1f24?style=for-the-badge&logo=html5&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/CSS3-2d1f24?style=for-the-badge&logo=css3&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/JavaScript-2d1f24?style=for-the-badge&logo=javascript&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/TypeScript-2d1f24?style=for-the-badge&logo=typescript&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/React-2d1f24?style=for-the-badge&logo=react&logoColor=e7dde1"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-2d1f24?style=for-the-badge&logo=node.js&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/Express.js-2d1f24?style=for-the-badge&logo=express&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/Prisma-2d1f24?style=for-the-badge&logo=prisma&logoColor=e7dde1"/>
+</p>
+
+### Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-2d1f24?style=for-the-badge&logo=react&logoColor=e7dde1"/>
+</p>
+
+### AI / Data
+<p>
+  <img src="https://img.shields.io/badge/Python-2d1f24?style=for-the-badge&logo=python&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/NumPy-2d1f24?style=for-the-badge&logo=numpy&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/Pandas-2d1f24?style=for-the-badge&logo=pandas&logoColor=e7dde1"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-2d1f24?style=for-the-badge&logo=mongodb&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/MySQL-2d1f24?style=for-the-badge&logo=mysql&logoColor=e7dde1"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-2d1f24?style=for-the-badge&logo=git&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/GitHub-2d1f24?style=for-the-badge&logo=github&logoColor=e7dde1"/>
+  <img src="https://img.shields.io/badge/Canva-2d1f24?style=for-the-badge&logo=canva&logoColor=e7dde1"/>
+</p>
