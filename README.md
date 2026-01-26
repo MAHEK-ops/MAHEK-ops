@@ -10,6 +10,7 @@ I’m a Full Stack Developer with a strong interest in UI/UX and AI.
 I enjoy blending clean design with thoughtful code, creating interfaces that are intuitive, calm, and visually pleasing.
 
 ## Tech Stack
+
 <p align="center">
   <em>My toolkit for crafting calm, thoughtful, and beautifully detailed digital experiences.</em>
 </p>
@@ -55,4 +56,10 @@ I enjoy blending clean design with thoughtful code, creating interfaces that are
   <img src="https://img.shields.io/badge/GitHub-2d1f24?style=for-the-badge&logo=github&logoColor=e7dde1"/>
   <img src="https://img.shields.io/badge/Canva-2d1f24?style=for-the-badge&logo=canva&logoColor=e7dde1"/>
 </div>
+
+## In My Focus
+
+- Blending design sensibility with solid frontend engineering  
+- Exploring data, visualization, and beginner-friendly AI/ML applications  
+- Continuously evolving into a thoughtful and versatile developer  
 
