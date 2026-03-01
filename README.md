@@ -63,6 +63,12 @@ I enjoy blending clean design with thoughtful code, creating interfaces that are
 - Exploring data, visualization, and beginner-friendly AI/ML applications  
 - Continuously evolving into a thoughtful and versatile developer  
 
+## GitHub Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHEK-ops&theme=rose_pine&hide_border=true" />
+</p>
+
 ## Connect With Me
 
 <p align="left">
