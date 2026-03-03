@@ -66,7 +66,7 @@ I enjoy blending clean design with thoughtful code, creating interfaces that are
 ## GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHEK-ops&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MAHEK-ops&theme=rose_pine&hide_border=true&v=3" />
 </p>
 
 ## Connect With Me
