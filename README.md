@@ -79,11 +79,11 @@ I enjoy blending clean design with thoughtful code, creating interfaces that are
   <a href="https://www.linkedin.com/in/mahek-motwani-915912328/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin-in&logoColor=9b6b73"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/mahek777_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-0d1117?style=flat&logo=instagram&logoColor=9b6b73"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://discord.com/users/YOUR_ID" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-0d1117?style=flat&logo=discord&logoColor=9b6b73"/>
   </a>
